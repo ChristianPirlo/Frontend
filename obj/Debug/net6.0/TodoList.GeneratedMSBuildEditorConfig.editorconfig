@@ -9,45 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = TodoList
 build_property.RootNamespace = TodoList
-build_property.ProjectDir = D:\Pirlo(Semester 5)\Frontend\TodoList\
+build_property.ProjectDir = d:\Pirlo(Semester 5)\Frontend\TodoList\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Pirlo(Semester 5)\Frontend\TodoList
+build_property.MSBuildProjectDirectory = d:\Pirlo(Semester 5)\Frontend\TodoList
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Pirlo(Semester 5)/Frontend/TodoList/App.razor]
+[d:/Pirlo(Semester 5)/Frontend/TodoList/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Pirlo(Semester 5)/Frontend/TodoList/Pages/Counter.razor]
+[d:/Pirlo(Semester 5)/Frontend/TodoList/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Pirlo(Semester 5)/Frontend/TodoList/Pages/FetchData.razor]
+[d:/Pirlo(Semester 5)/Frontend/TodoList/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Pirlo(Semester 5)/Frontend/TodoList/Pages/Index.razor]
+[d:/Pirlo(Semester 5)/Frontend/TodoList/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Pirlo(Semester 5)/Frontend/TodoList/Pages/Todo.razor]
+[d:/Pirlo(Semester 5)/Frontend/TodoList/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Pirlo(Semester 5)/Frontend/TodoList/Pages/Registrasi.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cmFzaS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/Pirlo(Semester 5)/Frontend/TodoList/Pages/Todo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9kby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Pirlo(Semester 5)/Frontend/TodoList/Shared/SurveyPrompt.razor]
+[d:/Pirlo(Semester 5)/Frontend/TodoList/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Pirlo(Semester 5)/Frontend/TodoList/_Imports.razor]
+[d:/Pirlo(Semester 5)/Frontend/TodoList/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Pirlo(Semester 5)/Frontend/TodoList/Shared/MainLayout.razor]
+[d:/Pirlo(Semester 5)/Frontend/TodoList/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-lgk3a00odd
 
-[D:/Pirlo(Semester 5)/Frontend/TodoList/Shared/NavMenu.razor]
+[d:/Pirlo(Semester 5)/Frontend/TodoList/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-8wslh49k3u
