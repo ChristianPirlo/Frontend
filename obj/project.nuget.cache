@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dOu80kipUDaGOIZaatap8GgNvcaEXCNZsn82XElQx168+80mgbjC8Ux5+CrPWfdga40Ulsbhp8EB0g8EGm19/A==",
+  "dgSpecHash": "mh1fJ6gQOr8BDj6ZkML5i0NoDiCvUzt5HQErst63Wrq5mMJVAdaY2jC9ikdvMohsd6RqdCJPJYTksprImktbPA==",
   "success": true,
   "projectFilePath": "D:\\Pirlo(Semester 5)\\Frontend\\TodoList\\TodoList.csproj",
   "expectedPackageFiles": [
@@ -33,10 +33,7 @@
     "C:\\Users\\VICTUS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\VICTUS\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\VICTUS\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\VICTUS\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\VICTUS\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.21\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.21.nupkg.sha512",
-    "C:\\Users\\VICTUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\VICTUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+    "C:\\Users\\VICTUS\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.23\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.23.nupkg.sha512"
   ],
   "logs": []
 }
